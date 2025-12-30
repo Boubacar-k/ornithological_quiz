@@ -1,0 +1,30 @@
+<bname>Kan kan</bname>
+<fname>Corbeau pie</fname>
+<desc>
+Taille: 46-50 cm<br>
+Alimentation: omnivore<br>
+Statut: sédentaire<br>
+Particularité: collier blanc sur la nuque
+<p>
+Le Corbeau pie est un oiseau africain très répandu. Il est intelligent et
+opportuniste, il a une capacité de vol particulière, avec des ailes larges
+qui lui permettent d’avoir une grande puissance de vol.
+Il est curieux, très mimétique, utilise des outils et est capable de
+reproduire le son des autres oiseaux.
+<p>
+Il vit en bandes et se signale par des cris «kan kan».
+Les deux adultes du Corbeau pie sont semblables et ont la tête, le cou
+et le haut de la poitrine noirs, avec des reflets bleus et violets.
+Les plumes noires de la gorge sont plus longues.
+<p>
+Ces parties noires contrastent fortement avec le collier
+blanc sur le haut du manteau, s’étendant vers les parties
+inférieures sur la poitrine, les côtés du corps et les axillaires.
+<p>
+Le Corbeau pie s’adapte très bien à différents types d’habitats,
+y compris les villes. Il y trouve toutes sortes de nourritures,
+notamment près des abattoirs et des décharges. Il se
+nourrit également de charognes et contribue ainsi à
+maintenir la nature propre. Il faut donc être reconnaissant envers
+ces oiseaux pour ce travail et ne pas les persécuter.
+</desc>

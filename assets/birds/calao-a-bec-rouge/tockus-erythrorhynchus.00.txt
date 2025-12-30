@@ -1,0 +1,29 @@
+<bname>Tolen da blen</bname>
+<fname>Calao à bec rouge</fname>
+<desc>
+Taille: 40-48 cm<br>
+Alimentation: petits animaux, fruits et grains<br>
+Statut: sédentaire et migrateur intra-africain<br>
+Particularité: bec long et rouge
+<p>
+Les deux
+sexes sont semblables.
+Le Calao à bec rouge émet des gloussements 
+«tok-tok-tok-toktoktok ...» continus. On le retrouve dans les
+zones boisées ouvertes, les savanes sèches et les zones d’arbustes épineux.
+<p>
+Le Calao à bec rouge se nourrit généralement en couple ou en groupe,
+très souvent dans des zones brûlées ou des rizières après les récoltes.
+<p>
+Il niche dans une cavité naturelle d’arbre. La femelle est
+enfermée à l’intérieur de la cavité et seule une petite ouverture subsiste,
+par laquelle le mâle nourrit la femelle et les oisillons.
+La femelle se déplume pendant ce temps
+et formera un nouveau plumage avec les poussins.
+Après une période d'environ trois mois,
+les jeunes oiseaux aptes au vol et la femelle quittent la cavité.
+<p>
+Le Calao est un oiseau emblématique et de culte, notamment chez les
+Sénoufos au Mali et en Côte d’Ivoire, qui le considèrent comme un animal
+primordial et leur protecteur.
+</desc>

@@ -1,0 +1,26 @@
+<bname>Djefereni</bname>
+<fname>Amarante du Sénégal</fname>
+<desc>
+Taille: 10 cm<br>
+Alimentation: grains<br>
+Statut: sédentaire<br>
+Particularité: bec rouge, cercle orbital jaunâtre
+<p>
+Le mâle adulte se différencie de la
+femelle par sa couleur rouge dominante. Il est peu timide et cherche, par
+exemple, au milieu de la volaille domestique, sa nourriture. Il vit en couple
+ou en petits groupes variables. En dehors de la période de reproduction
+on peut observer des groupes plus importants.
+<p>
+Les couples et les petites troupes résident dans divers habitats herbeux
+de savane et sur les terres cultivées. Ils se nourrissent de graines et se
+réfugient dans les arbres lorsqu’on les dérange. Cette espèce a une
+couleur tellement jolie qu'elle est exploitée par l'oisellerie mondiale et fait
+l’objet d’exportations par milliers vers les pays occidentaux.
+<p>
+Au Mali, c'est un oiseau sacré qui ne se mange pas. Il est même
+demandé par les adultes de le protéger. L’ésotérisme de plusieurs groupes
+ethniques africains raconte que c’est un oiseau qui procure de la chance.
+Il prend le nom de «protégé de Dieu» dans certaines langues. Il est aussi
+surnommé «l’oiseau du paradis».
+</desc>

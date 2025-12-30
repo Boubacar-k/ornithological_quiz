@@ -1,0 +1,32 @@
+<bname>Lèkônô</bname>
+<fname>Barbican à poitrine rouge</fname>
+<desc>
+Taille: 25-27 cm<br>
+Alimentation: insectes, fruits<br>
+Statut: sédentaire<br>
+Particularité: cercle orbitale très grand
+<p>
+Identifiable à travers son plumage tricolore, noir, blanc et rouge,
+le Barbican à poitrine rouge affectionne les grands arbres de savanes boisées
+denses comme les baobabs, les acacias ou les figuiers. Il vit également
+en bordure des terres cultivées, dans les fermes, les plantations
+abandonnées, les jardins, les bouquets isolés de buissons et de fourrés ou
+les zones boisées en cours de régénération, presque toujours au sein
+de zones arides inhabitées.
+<p>
+Les Barbicans à poitrine rouge nichent dans les palmiers et dans
+les acacias. Ils creusent la cavité nidificatrice à n'importe quelle hauteur dans
+un arbre mort ou dans la branche vermoulue d'un arbre en bonne santé.
+<p>
+Le Barbican à poitrine rouge a un régime alimentaire mixte.
+Il apprécie les insectes, mais aussi les fruits. C’est pourquoi
+il occupe les zones peuplées de grands arbres.
+En petites bandes, les Barbicans volent d’un arbre à l’autre
+pour manger différents types de fruitsr. Ils les prélèvent
+facilement grâce à leur puissant bec muni de dentelures. Tous
+les membres du groupe se reposent ensemble dans une
+cavité.
+<p>
+La désertification et l’éclaircissement massif des zones
+boisées constituent la principale menace pour leur conservation.
+</desc>

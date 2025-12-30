@@ -1,0 +1,27 @@
+<bname>Mola ku suru</bname>
+<fname>Choucador pourpré</fname>
+<desc>
+Taille: 19-20 cm<br>
+Alimentation: omnivore<br>
+Statut: sédentaire<br>
+Particularité: brillant, queue courte
+<p>
+Le Choucador pourpré est aussi appelé Merle métallique pourpré. C’est
+un magnifique oiseau très grégaire, actif et bruyant. Il trouve sa nourriture
+au sol et sur les arbres. Son régime alimentaire est mixte. Il est à la fois
+frugivore, granivore et insectivore. Les mâles et les femelles sont identiques.
+Ils sont présents toute l'année et établissent des dortoirs
+communs qui comprennent des milliers d'individus.
+<p>
+Les Choucadors pourprés fréquentent généralement les savanes boisées,
+les paysages ouverts, les terres cultivées et les zones de broussailles
+ayant subi des incendies. Ils nichent dans des cavités naturelles
+d'arbres, mais il leur arrive également de construire leurs nids. Ce sont
+des oiseaux exclusivement africains. Ils se démarquent des autres oiseaux
+par de flamboyants reflets allant du bleu-vert au pourpre, avec des
+yeux jaunes intenses. Leurs plumes ont une particularité qui leur permet
+de varier pratiquement à l’infini leurs reflets exceptionnels au gré des
+inclinaisons des rayons solaires. On est ébloui par la pureté de leurs
+teintes. Ils sont capables d’imitation et de produire des sons rauques et
+puissants pour effrayer les prédateurs.
+</desc>

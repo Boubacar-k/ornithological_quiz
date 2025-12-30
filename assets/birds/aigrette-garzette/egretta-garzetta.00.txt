@@ -1,0 +1,33 @@
+<bname>Kunan djè surun</bname>
+<fname>Aigrette garzette</fname>
+<desc>
+Taille: 55-65 cm<br>
+Alimentation: petits animaux divers, crustacés<br>
+Particularité: pieds jaunes
+<p>
+L’Aigrette garzette est entièrement blanche, avec un bec noir légèrement
+gris bleuté à
+la base. Les pattes sont noires avec des doigts jaunes. Il n’y a pas de
+différence spécifique entre le mâle et la femelle. Dès que le couple est
+formé, il s’attèle à la construction du nid à l’aide de branchettes sèches
+dans des endroits très souvent près de l’eau en fonction des conditions
+locales. L’espèce ne fait qu’une nichée par an. La ponte commence dès
+avril et peut s’étaler jusqu’à juillet pour les couples les plus tardifs.i
+Ils nichent en colonies.
+<p>
+L’Aigrette symbolise la grâce et la noblesse. Elle est également associée
+à la pureté angélique et à la beauté, en raison de son plumage blanc et
+de son allure élégante.
+Elle était fortement chassée au 19ème siècle pour ses plumes, qui
+étaient utilisées dans l’industrie de la mode. L’espèce est assez
+commune de nos jours.
+<p>
+Au Mali, l’Aigrette garzette, aussi bien que les autres Hérons, est crainte
+et considérée comme sous la protection des djinns. Sa viande noirâtre
+n’est pas consommée. Sa présence dans les champs est très appréciée
+en raison de ses excréments riches pour les sols.
+<p>
+Localement, elle peut être en butte à des problèmes de destruction de
+son habitat sous la pression humaine en constante progression dans les
+zones humides.
+</desc>

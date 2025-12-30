@@ -1,0 +1,43 @@
+<bname>Tolen da fing</bname>
+<fname>Calao à bec noir</fname>
+<desc>
+Taille: 45-51 cm<br>
+Alimentation: petits animaux, fruits et grains<br>
+Statut: sédentaire et migrateur intra-africain<br>
+Particularité: bec long et noir
+<p>
+Les Calaos à bec noir sont assez communs en savane boisée
+où ils vivent en bandes de huit à dix individus. Ils se
+rencontrent partout et migrent groupés selon les saisons.
+Ils s’attaquent aux panicules des céréales, surtout à
+l’arachide déterrée.
+<p>
+La femelle pond de trois à six œufs dans la cavité d’un arbre
+et la ferme de l’intérieur avec de l’argile, des fientes, sacs
+fécaux et une pâte de mille-pattes écrasés. Seulement un
+centimètre reste ouvert. C’est une mesure de protection
+pour les œufs et les jeunes.
+Cette ouverture est suffisante
+pour que le mâle nourrisse la femelle et leur progéniture.
+La femelle mue entièrement pendant ce temps et bourre
+avec ces propres plumes le nid. Pour que la cavité reste
+propre, les déjections sont propulsées à travers l'ouverture
+vers l’extérieur. Le nid est difficile à trouver.
+Le mâle s’efforce de ne pas se faire voir à proximité.
+Si les poussins deviennent trop grands pour la cavité avec la mère, celle-ci
+brise la serrure et quitte le nid. Ce dernier est à nouveau
+partiellement fermé et les deux parents nourrissent les petits.
+<p>
+Le Calao joue un rôle essentiel dans la dispersion des
+graines en mangeant les fruits de diverses plantes et en
+disséminant les graines dans différents endroits pendant la
+digestion.
+<p>
+Les migrations groupées des Calaos sont un véritable
+bulletin météo pour les paysans. Lorsqu’ils se déplacent en
+bandes vers l’Est, cela annonce le début de la saison des
+pluiesr, le sens contraire annonce sa fin.
+<p>
+L’abattage de grands et vieux arbres entraîne la perte des
+cavités dont le Calao a besoin pour se reproduire.
+</desc>

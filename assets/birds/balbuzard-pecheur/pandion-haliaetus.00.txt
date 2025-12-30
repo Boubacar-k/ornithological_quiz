@@ -1,0 +1,33 @@
+<bname>Djiguè dun sèguè</bname>
+<fname>Balbuzard pêcheur</fname>
+<desc>
+Taille: 52-61 cm<br>
+Alimentation: poissons et autre petits animaux<br>
+Statut: sédentaire et migrateur paléartique<br>
+Particularité: bande noir en travers de l’œil
+<p>
+Le Balbuzard pêcheur est une espèce diurne, mystique et très esthétique.
+Il est qualifié de maître des cieux et des eaux. La femelle peut être un
+peu plus grande que le mâle. Le Balbuzard est un véritable pêcheur visuel.
+Il repère sa proie lors du vol plané au-dessus des grands cours
+d’eau, des eaux claires, avant de plonger avec une grande vitesse sur
+ses proies, qui sont généralement des poissons qui nagent lentement
+près de la surface de l’eau. Il porte bien son nom puisqu’il ne consomme
+essentiellement que du poisson.
+<p>
+Les jeunes oiseaux peuvent passer toute l’année au Mali, avant de repartir
+en été vers leurs zones de reproduction européennes.
+<p>
+Le Balbuzard pêcheur est très sensible aux polluants accumulés le long
+de la chaîne alimentaire jusqu’à lui. Pour ces
+raisons, on dit que c’est un bon bio-indicateur, c’est-à-dire
+qu’il renseigne sur la qualité du milieu où il vit.
+L’effectif du Balbuzard pêcheur se trouve en forte régression
+dans les zones humides dégradées par la sécheresse et
+les actions destructrices de l’Homme, notamment l’ingestion
+de poisson empoisonné à cause de la pollution des eaux
+due à l’utilisation de produits chimiques dans le cadre de
+l’orpaillage. Le Balbuzard pêcheur peut aussi être pris dans
+les filets de pêcheurs. Cependant, il ne fait pas l’objet d’une
+quelconque chasse.
+</desc>

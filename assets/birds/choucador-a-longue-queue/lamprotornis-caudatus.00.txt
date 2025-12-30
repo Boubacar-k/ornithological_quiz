@@ -1,0 +1,28 @@
+<bname>Mola ku djan</bname>
+<fname>Choucador à longue queue</fname>
+<desc>
+Taille: 50 cm<br>
+Alimentation: omnivore<br>
+Statut: sédentaire<br>
+Particularité: brillant, très longue queue étagée
+<p>
+Le Choucador à longue queue est présent dans toute la savane. Il est
+monotypique et fascinant, avec une queue très longue. Il est bruyant,
+méfiant et vit en petits groupes solidaires de quatre à huit individus. Ce
+sont des oiseaux très sociaux qui se produisent aussi dans des groupes
+allant jusqu’à 100 individus. Ils imitent souvent le cri d’autres oiseaux.
+Leur appel d'alerte sonore est fort et strident.
+<p>
+Le mâle et la femelle ont un plumage identique.
+Leur nidification a lieu entre août et octobre. Les nids,
+circulaires, sont situés dans des creux ou des trous d’arbres. Les deux
+sexes sont impliqués dans la nidification et la protection des petits.
+À l'intérieur d'un attroupement mixte avec d’autres oiseaux, les Choucadors
+jouent le rôle de leader du groupe. Toutes les autres espèces réagissent
+positivement au signal d'alarme qu'ils délivrent quand ils jouent le rôle
+de sentinelle.
+<p>
+Le Choucador est capable de courir rapidement sur terre.
+Les vocalisations fortes et complexes du Choucador à longue queue comprennent
+un mélange de crécelles, de grattements et de sifflements perçants. 
+</desc>

@@ -1,0 +1,32 @@
+<bname> <bname>
+<fname>Camaroptère à tête grise</fname>
+<desc>
+Taille: 11,5 cm<br>
+Alimentation: insectes<br>
+Statut: sédentaire<br>
+Particularité: ailes vert-olive
+<p>
+Le Camaroptère à tête grise, courant et endémique, est un petit oiseau
+rondelet, commun et répandu, qui se penche souvent vers l’avant en
+relevant sa courte queue étroite. Il a la tête, le manteau, la croupe
+grisbrun, les yeux rouges, les ailes vert-olive, les pattes roses et le bas gris
+clair. Les femelles et les mâles sont identiques.
+<p>
+Les couples occupent des habitations très variées, notamment les
+savanes arides et humides, les forêts et les lisières forestières, les
+mangroves et les jardins.
+<p>
+Le Camaroptère se déplace en sautillant, souvent près du sol, à la
+recherche de petits insectes qui constituent l’essentiel de sa nourriture. Il
+vit dans les sous-bois et autres buissons. Le nid est une boule enfermée
+dans une coquille de cinq ou six feuilles que le couple fixe avec de
+la toile d’araignée. Cette coquille demande environ une semaine de
+construction.
+<p>
+Le nid y est attaché par de vagues rivets. La couvée est
+faite principalement par la femelle, et les petits sont nourris
+par les deux parents.
+Le couple est territorial et monogame. Les deux types de
+vocalisations les plus fréquents sont un cri d’alarme nasal
+et un chant strident répété et énergique.
+</desc>

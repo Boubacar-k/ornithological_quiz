@@ -1,0 +1,29 @@
+<bname>Dji bi kan kônônin</bname>
+<fname>Alcyon pie</fname>
+<desc>
+Taille: 25-27 cm<br>
+Alimentation: poissons<br>
+Statut: sédentaire<br>
+Particularité: long bec en forme de dague
+<p>
+L’Alcyon pie est un martin-pêcheur au plumage blanc et noir harmonieusement
+moucheté. Il vit au bord de l’eau où on l’observe généralement
+sur un perchoir naturel. Il fréquente les points d'eau douce et salée. Sa
+capacité à creuser des galeries horizontales dans les berges des fleuves
+lui offre une protection supplémentaire contre les prédateurs. Il guette
+ses proies, volant sur place au-dessus de l’eau. Après avoir capturé sa
+proie, il retourne sur son perchoir pour l’assommer en la frappant contre
+celui-ci avant de l’avaler.
+<p>
+Contrairement à la plupart des martins-pêcheurs, les Alcyons pie sont
+conviviaux et forment en soirée de grandes nuées. Le couple adopte en
+général un mode de reproduction coopératif. Le couple nicheur est assisté
+par plusieurs adultes non nicheurs. La première assistance est toujours
+fournie par un mâle qui est généralement le fils d'un des membres
+du couple nicheur. Il assiste le couple nicheur dans toutes ses tâches
+dès le début de la nidification. La deuxième assistance est fournie par
+des adultes non nicheurs n’ayant aucun lien de parenté avec le couple
+nicheur. Ils n'interviennent que lorsque les œufs sont éclos. Leurs tâches
+se cantonnent à nourrir la nichée. Ainsi, ce mode permet à la colonie
+d’élever le plus grand nombre possible de petits.
+</desc>

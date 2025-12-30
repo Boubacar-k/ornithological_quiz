@@ -1,0 +1,25 @@
+<bname>Lèkônôni</bname>
+<fname>Barbion à front jaune</fname>
+<desc>
+Taille: 11 cm<br>
+Alimentation: fruits<br>
+Statut: sédentaire<br>
+Particularité: front jaune-orange
+<p>
+Le Barbion à front jaune vit en Afrique subsaharienne. Il se déplace dans les savanes
+arbustives où il fréquente la cime des arbres. Il est capable de s'adapter à de
+nombreux habitats.
+<p>
+Concernant la nidification, les Barbions à front jaune creusent leurs nids
+dans du bois mort. La femelle du Barbion à front jaune ressemble au
+mâle. Mais à la différence de ce dernier, elle est moins jaune.
+La présence d’un Barbion à front jaune dans les arbres ou les buissons
+se manifeste par un cri répétitif pendant plusieurs minutes d’affilée.
+<p>
+Les Barbions à front jaune se nourrissent généralement en haut
+des arbres et dans les buissons. Ils sont principalement frugivores.
+Occasionnellement, ils capturent des insectes volants.
+<p>
+Le Barbion à front jaune est très souvent solitaire, mais rejoint parfois
+des volées mixtes pour se nourrir.
+</desc>
